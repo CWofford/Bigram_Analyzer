@@ -1,0 +1,55 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+h1 {
+  position: center;
+  text-align: center;
+  font-size: 3em;
+}
+
+.input-controls {
+  color: blue;
+}
+
+.app-container {
+  text-align: center;
+}
+
+.bigram-table {
+  margin: 0px auto;
+  font-size: 1em;
+}
+
+.bigram-table th {
+  padding-left: 2.5em;
+  padding-right: 2.5em;
+  text-decoration: underline;
+}
+
+.bigram-table tr {
+  padding-left: 2.5em;
+  padding-right: 2.5em;
+}
+
+.button-group {
+  padding: 0.5em;
+}
+
+.clear-btn {
+  padding: 1em;
+  margin-left: 0.25rem;
+}
+
+.analyze-btn {
+  padding: 1em;
+  margin-right: 0.25rem
+}
+
+h3 {
+  text-decoration: underline;
+}
